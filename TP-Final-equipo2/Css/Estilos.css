@@ -1,0 +1,28 @@
+﻿body {
+
+}
+.abs-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+
+}
+
+.Login {
+    width: 450px;
+    margin: auto;
+
+}
+
+.Home {
+    width: 60%;
+    margin: auto;
+}
+
+.errorMensaje{
+    color: red;
+    font-weight: bold;
+}
+
+    
